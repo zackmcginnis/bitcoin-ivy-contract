@@ -12,7 +12,7 @@
   "email": "zackmcginnis@hotmail.com",
   "license": "Apache-2.0",
   "devDependencies": {
-    "ivy-bitcoin": "latest"
+    "ivy-bitcoin": "0.0.27"
   },
   "dependencies": {}
 }
